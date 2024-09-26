@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
 
 ## 📚 Publications & Papers
 
-- Currently working on publishing a paper related to **Sleep Stage Classification** with EEG data.
 - Planning to submit my thesis paper with my final year project team.
 
 ## 📫 Let's Connect!
