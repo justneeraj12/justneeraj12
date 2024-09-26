@@ -32,3 +32,6 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
 
 - **LinkedIn**: [Neeraj Kumar](https://www.linkedin.com/in/justneeraj/)
 - **Email**: neeraj.2xx4@gmail.com
+
+  
+https://raw.githubusercontent.com/justneeraj12/justneeraj12/output/github-contribution-grid-snake-dark.svg
