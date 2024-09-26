@@ -19,19 +19,9 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
   - **LLMs in Vision Systems**: Integrating LLM capabilities with the LlaVA-Plus model for better language and vision processing.
   - **AI & Robotics**: I’m passionate about applying machine learning in autonomous systems like UAVs, UUVs, and robots that enhance human productivity.
 
-- 🎯 **Research & Teaching**  
+- 🎯 **Research**  
   - Conducting research on attention-based deep learning for sleep stage classification using single-channel EEG.
   - Teaching AI to walk in Unity using ML Agents, enhancing my experience in reinforcement learning.
-
-## 🔧 Skills
-
-- **Programming**: Python, C++, JavaScript, SQL
-- **Machine Learning & AI**: TensorFlow, PyTorch, Keras, scikit-learn
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
-- **Web Scraping**: BeautifulSoup, Selenium
-- **Reinforcement Learning**: Unity ML Agents
-- **Hardware & Robotics**: Arduino, Raspberry Pi, Embedded Systems
-- **GIS & Remote Sensing**: Applications in highway alignment and environmental engineering
 
 ## 📚 Publications & Papers
 
@@ -40,6 +30,5 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Neeraj Kumar](https://www.linkedin.com/in/neeraj-kumar/)
-- **Email**: neeraj@example.com
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn**: [Neeraj Kumar](https://www.linkedin.com/in/justneeraj/)
+- **Email**: neeraj.2xx4@gmail.com
