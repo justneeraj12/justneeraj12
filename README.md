@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
   As a former the Head of Marketing for the TedxCITBengaluru, I was responsible for selling tickets, securing sponsorships.
 
 - 🛠 **Projects & Research Interests**
-  - **Neural Networks and Specialized Silicon**: Developing ASIC-based transformers and specialized neural network silicon with my startup project, 'anked.'
   - **ML Models for EEG Data**: Worked on predictive models for antidepressant response in major depression during my internship at Ibrains - Centre for Precision Neuro-Psychiatry.
   - **LLMs in Vision Systems**: Integrating LLM capabilities with the LlaVA-Plus model for better language and vision processing.
   - **AI & Robotics**: I’m passionate about applying machine learning in autonomous systems like UAVs, UUVs, and robots that enhance human productivity.
