@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
   I'm planning to pursue my PhD in AI and Robotics and have a keen interest in working with renowned researchers like Dr. James Carroll, Dr. Chuck Thorpe, and Dr. Sean Banerjee at Clarkson University.
 
 - 👨‍💻 **Marketing Coordinator & Event Organizer**  
-  As the Head of Marketing for the GCCR 4M Event, I’m responsible for selling 800 tickets, securing ₹80 lakh in sponsorships, and managing a total event budget of ₹1.1 crore.
+  As a former the Head of Marketing for the TedxCITBengaluru, I was responsible for selling tickets, securing sponsorships.
 
 - 🛠 **Projects & Research Interests**
   - **Neural Networks and Specialized Silicon**: Developing ASIC-based transformers and specialized neural network silicon with my startup project, 'anked.'
