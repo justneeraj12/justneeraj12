@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and rob
   Currently pursuing my bachelor's degree in AI and Computer Science with plans to continue to a Master’s or PhD focused on AI and Robotics.
   
 - 🌐 **PhD Aspirant**  
-  I'm planning to pursue my PhD in AI and Robotics and have a keen interest in working with renowned researchers like Dr. James Carroll, Dr. Chuck Thorpe, and Dr. Sean Banerjee at Clarkson University.
+  I'm planning to pursue my PhD in AI and Robotics and have a keen interest in working with renowned researchers.
 
 - 👨‍💻 **Marketing Coordinator & Event Organizer**  
   As a former the Head of Marketing for the TedxCITBengaluru, I was responsible for selling tickets, securing sponsorships.
