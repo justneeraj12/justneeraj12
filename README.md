@@ -1,34 +1,74 @@
-# 👋 Hi, I'm Neeraj Kumar
+<!-- NOC profile // claims kept evidence-backed -->
 
-Welcome to my GitHub profile! I'm passionate about AI, machine learning, and robotics. I enjoy working on cutting-edge projects and solving real-world problems using technology. Here’s a bit about me and what I’m working on.
+<div align="center">
 
-## 🚀 About Me
+<pre>
+███╗   ██╗ ██████╗  ██████╗
+████╗  ██║██╔═══██╗██╔════╝
+██╔██╗ ██║██║   ██║██║
+██║╚██╗██║██║   ██║██║
+██║ ╚████║╚██████╔╝╚██████╗
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
+</pre>
 
-- 🎓 **Bachelor’s Student in AI/Computer Science**  
-  Currently pursuing my bachelor's degree in AI and Computer Science with plans to continue to a Master’s or PhD focused on AI and Robotics.
-  
-- 🌐 **PhD Aspirant**  
-  I'm planning to pursue my PhD in AI and Robotics and have a keen interest in working with renowned researchers.
+# Neeraj Kanchani
 
-- 👨‍💻 **Marketing Coordinator & Event Organizer**  
-  As a former the Head of Marketing for the TedxCITBengaluru, I was responsible for selling tickets, securing sponsorships.
+**Robotics software · Linux systems · AI inference**
 
-- 🛠 **Projects & Research Interests**
-  - **ML Models for EEG Data**: Worked on predictive models for antidepressant response in major depression during my internship at Ibrains - Centre for Precision Neuro-Psychiatry.
-  - **LLMs in Vision Systems**: Integrating LLM capabilities with the LlaVA-Plus model for better language and vision processing.
-  - **AI & Robotics**: I’m passionate about applying machine learning in autonomous systems like UAVs, UUVs, and robots that enhance human productivity.
+I build software that has to survive contact with hardware, users, and production constraints.
 
-- 🎯 **Research**  
-  - Conducting research on attention-based deep learning for sleep stage classification using single-channel EEG.
-  - Teaching AI to walk in Unity using ML Agents, enhancing my experience in reinforcement learning.
+[![Portfolio](https://img.shields.io/badge/justneeraj.tech-111111?style=flat-square&logo=firefoxbrowser&logoColor=ffffff)](https://justneeraj.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/justneeraj/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:neeraj.2xx4@gmail.com)
 
-## 📚 Publications & Papers
+</div>
 
-- Planning to submit my thesis paper with my final year project team.
+---
 
-## 📫 Let's Connect!
+### `// STATUS`
 
-- **LinkedIn**: [Neeraj Kumar](https://www.linkedin.com/in/justneeraj/)
-- **Email**: neeraj.2xx4@gmail.com
+- M.S. Electrical & Computer Engineering at Clarkson University — graduating December 2026
+- Working across robotics, edge AI, native Linux tooling, and reliable inference systems
+- Interested in early-career roles where I can own systems end to end
 
-  
+### `// SELECTED SYSTEMS`
+
+| Project | What I built |
+|---|---|
+| **[Nocturne for Hyprland](https://github.com/justneeraj12/nocturne-hyprland)** | A Qt 6 / Wayland / D-Bus desktop control plane with zero-idle popovers and deterministic recovery paths. |
+| **[ROS 2 Vision Leader–Follower](https://github.com/justneeraj12/ee616-vision-leader-follower)** | A five-package simulated warehouse robotics stack with perception, coordination, diagnostics, and 61 automated tests. |
+| **[Face Unlock for Linux](https://github.com/justneeraj12/face-unlock-linux)** | A C++17 PAM authentication pipeline using UNIX sockets and CPU-only ONNX face detection and recognition. |
+| **[Cross-Lingual Speech Emotion Recognition](https://github.com/justneeraj12/cross-lingual-speech-emotion-recognition)** | A reproducible audio-data pipeline for 41,265 recordings using STFT, MFCC features, and Parquet datasets. |
+
+### `// TOOLCHAIN`
+
+```text
+LANGUAGES    C++17 · Python · C · SQL · Bash
+ROBOTICS     ROS 2 · OpenCV · Gazebo · perception · coordination
+AI / EDGE    ONNX Runtime · PyTorch · NumPy · pandas · signal processing
+SYSTEMS      Linux · Qt 6 · Wayland · D-Bus · PAM · UNIX sockets
+DELIVERY     CMake · Docker · GitHub Actions · pytest · Git
+```
+
+### `// OPERATING PRINCIPLES`
+
+```text
+01  Measure the real bottleneck.
+02  Make failures observable and reproducible.
+03  Prefer small, testable systems over impressive diagrams.
+04  Build the recovery path before calling it reliable.
+```
+
+### `// BACKGROUND`
+
+Before graduate school, I earned a B.E. in Artificial Intelligence & Machine Learning and led undergraduate robotics communities as President of my college robotics club and Chair of its IEEE Robotics and Automation Society chapter.
+
+I am currently building toward work in robotics software, physical AI, inference infrastructure, and systems engineering.
+
+---
+
+<div align="center">
+
+`NOC // BUILD QUIETLY · TEST AGGRESSIVELY · SHIP SYSTEMS`
+
+</div>
